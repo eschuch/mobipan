@@ -1,4 +1,4 @@
-# [mobipan.github.io - Mobilidade x Pandemia](https://mobipan.github.io/)
+# [Mobilidade x Pandemia](https://mobipan.github.io/)
 
 
 **Aviso: De forma alguma estas informações, dados, gráficos podem ser usado para fundamentar qualquer ação de saúde pública real! Estamos tratando de algo extremamente sério. Entre em contato com um médico se você precisa de ajuda. Siga as orientações dos orgãos de saúde mundial, nacional, estadual e municipal a qual você pertence. Estas informações são resultados de pesquisas simples e pessoais minhas, no meu tempo livre, usando recursos prórpios.**
