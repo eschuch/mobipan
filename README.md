@@ -1,4 +1,4 @@
-# [mobipan.els.net.br - Mobilidade x Pandemia](https://mobipan.els.net.br/)
+# [mobipan.github.io - Mobilidade x Pandemia](https://mobipan.github.io/)
 
 
 **Aviso: De forma alguma estas informações, dados, gráficos podem ser usado para fundamentar qualquer ação de saúde pública real! Estamos tratando de algo extremamente sério. Entre em contato com um médico se você precisa de ajuda. Siga as orientações dos orgãos de saúde mundial, nacional, estadual e municipal a qual você pertence. Estas informações são resultados de pesquisas simples e pessoais minhas, no meu tempo livre, usando recursos prórpios.**
@@ -49,9 +49,9 @@ Não sou vinculado, não trabalho, não respondo pelas empresas, grupos ou organ
 ### Mais informações:
 Todos os registros, dados, informações, códigos, e o que mais possa ser interessante estão dispóniveis no site deste projeto pessoal:
 
-* [els - Mobilidade x Pandemia](https://mobipan.els.net.br/)
+* [els - Mobilidade x Pandemia](https://mobipan.github.io/)
 
-Ou aqui, ou nos dois. Caso não estão, por favor me mande um [Twitter](https://twitter.com/t00rmenta) ou [e-mail](mailto:mobipan@els.net.br) ou **[melhor ainda, abra um evento aqui](https://github.com/eschuch/mobipan.els.net.br/issues/new/choose)**
+Ou aqui, ou nos dois. Caso não estão, por favor me mande um [Twitter](https://twitter.com/t00rmenta) ou [e-mail](mailto:mobipan@els.net.br) ou **[melhor ainda, abra um evento aqui](https://github.com/eschuch/mobipan.github.io/issues/new/choose)**
 
 Obrigado
 
