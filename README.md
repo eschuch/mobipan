@@ -51,7 +51,7 @@ Todos os registros, dados, informações, códigos, e o que mais possa ser inter
 
 * [els - Mobilidade x Pandemia](https://mobipan.els.net.br/)
 
-Ou aqui, ou nos dois. Caso não estão, por favor me mande um [Twitter](https://twitter.com/t00rmenta) ou [e-mail](mailto:mobipan@els.net.br)
+Ou aqui, ou nos dois. Caso não estão, por favor me mande um [Twitter](https://twitter.com/t00rmenta) ou [e-mail](mailto:mobipan@els.net.br) ou **[melhor ainda, abra um evento aqui](https://github.com/eschuch/mobipan.els.net.br/issues/new/choose)**
 
 Obrigado
 
